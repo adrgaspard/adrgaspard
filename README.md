@@ -2,7 +2,7 @@
 
 📖 My name is Gaspard, I'm an engineer graduated in 2023 from Grenoble INP - ENSIMAG (Grenoble, France :fr:)
 
-💻 I work currently at Michelin as a DevOps Engineer, and previously i had an apprenticeship at General Electric in .NET development
+💻 I currently work at Michelin as a DevOps Engineer, and previously i made an apprenticeship at General Electric in .NET development
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Tech Stack
 
